@@ -26,9 +26,9 @@ https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/
 	- epsilon_greedy(adding noise to Q-learning)
 	- crawler(using epsilon_greedy method)
 
-## gif giles
+## gif files
 
-* project1: Searching
+### * project1: Searching
 ***
 	- dfs
 ![DFS](https://user-images.githubusercontent.com/43023361/60770720-39f32080-a119-11e9-9660-00d58dea68ad.gif)
@@ -52,7 +52,7 @@ https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/
 ![replanning](https://user-images.githubusercontent.com/43023361/60770755-7de62580-a119-11e9-9bc8-9cf962398097.gif)
 
 
-* project2 : Multi-Agent Search
+### * project2 : Multi-Agent Search
 ***	
 	- reflex-agent
 ![Multiagent-reflex-agent](https://user-images.githubusercontent.com/43023361/60770759-88a0ba80-a119-11e9-9d11-8a359b28b36c.gif)
@@ -61,7 +61,7 @@ https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/
 ![expectimax](https://user-images.githubusercontent.com/43023361/60770760-922a2280-a119-11e9-860e-c1af255caa14.gif)
 
 
-* project3 : Reinforcement Learning
+### * project3 : Reinforcement Learning
 ***
 	- Q-value-iteration
 ![QvalueIteration](https://user-images.githubusercontent.com/43023361/60770766-9c4c2100-a119-11e9-97e1-b194fb01376c.gif)
