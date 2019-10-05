@@ -1,7 +1,7 @@
 # GAME AI Project
 
 CS188 (Introduction to Artificial Intelligence) assignment Projects.
-GAME GUI made by U.C Berkeley 
+GAME GUI made by U.C Berkeley. 
 Files(python) are only for AI algorithms.
 For GUI, download project files at
 https://edge.edx.org/courses/course-v1:BerkeleyX+CS188+2018_SP/course/
